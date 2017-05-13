@@ -16,11 +16,11 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11406610783,
   "created_at" : "2010-04-01 00:00:00 +0000",
   "user" : {
-    "name" : "Melissa[glory emoji]",
+    "name" : "Melissa \uD83D\uDD6F",
     "screen_name" : "0xabad1dea",
     "protected" : false,
     "id_str" : "126030998",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638758975006220288\/5ED68lap_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/793488141873246209\/PjAAgFmm_normal.jpg",
     "id" : 126030998,
     "verified" : false
   }
@@ -38,11 +38,11 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11426496663,
   "created_at" : "2010-04-01 00:00:00 +0000",
   "user" : {
-    "name" : "Melissa[glory emoji]",
+    "name" : "Melissa \uD83D\uDD6F",
     "screen_name" : "0xabad1dea",
     "protected" : false,
     "id_str" : "126030998",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638758975006220288\/5ED68lap_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/793488141873246209\/PjAAgFmm_normal.jpg",
     "id" : 126030998,
     "verified" : false
   }
@@ -60,11 +60,11 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11348182635,
   "created_at" : "2010-03-31 00:00:00 +0000",
   "user" : {
-    "name" : "Melissa[glory emoji]",
+    "name" : "Melissa \uD83D\uDD6F",
     "screen_name" : "0xabad1dea",
     "protected" : false,
     "id_str" : "126030998",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638758975006220288\/5ED68lap_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/793488141873246209\/PjAAgFmm_normal.jpg",
     "id" : 126030998,
     "verified" : false
   }
@@ -85,11 +85,11 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11092509372,
   "created_at" : "2010-03-26 00:00:00 +0000",
   "user" : {
-    "name" : "Melissa[glory emoji]",
+    "name" : "Melissa \uD83D\uDD6F",
     "screen_name" : "0xabad1dea",
     "protected" : false,
     "id_str" : "126030998",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638758975006220288\/5ED68lap_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/793488141873246209\/PjAAgFmm_normal.jpg",
     "id" : 126030998,
     "verified" : false
   }
@@ -107,11 +107,11 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11033997060,
   "created_at" : "2010-03-25 00:00:00 +0000",
   "user" : {
-    "name" : "Melissa[glory emoji]",
+    "name" : "Melissa \uD83D\uDD6F",
     "screen_name" : "0xabad1dea",
     "protected" : false,
     "id_str" : "126030998",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638758975006220288\/5ED68lap_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/793488141873246209\/PjAAgFmm_normal.jpg",
     "id" : 126030998,
     "verified" : false
   }
@@ -135,11 +135,11 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10987406067,
   "created_at" : "2010-03-24 00:00:00 +0000",
   "user" : {
-    "name" : "Melissa[glory emoji]",
+    "name" : "Melissa \uD83D\uDD6F",
     "screen_name" : "0xabad1dea",
     "protected" : false,
     "id_str" : "126030998",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638758975006220288\/5ED68lap_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/793488141873246209\/PjAAgFmm_normal.jpg",
     "id" : 126030998,
     "verified" : false
   }
@@ -186,11 +186,11 @@ Grailbird.data.tweets_2010_03 =
   "id" : 10988385698,
   "created_at" : "2010-03-24 00:00:00 +0000",
   "user" : {
-    "name" : "Melissa[glory emoji]",
+    "name" : "Melissa \uD83D\uDD6F",
     "screen_name" : "0xabad1dea",
     "protected" : false,
     "id_str" : "126030998",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638758975006220288\/5ED68lap_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/793488141873246209\/PjAAgFmm_normal.jpg",
     "id" : 126030998,
     "verified" : false
   }
